@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled Object files
 *.slo
 *.lo
@@ -14,11 +15,35 @@
 *.la
 *.a
 *.lib
+=======
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+>>>>>>> 7ecf5159e98a69d812dedbe21618e6e437e57376
 
 # Executables
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 *.x
 
 # VI backups
@@ -38,3 +63,11 @@
 # images
 *.eps
 
+=======
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+>>>>>>> 7ecf5159e98a69d812dedbe21618e6e437e57376
