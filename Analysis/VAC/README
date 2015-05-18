@@ -1,0 +1,14 @@
+Velocity Autocorrelation code:
+
+USAGE: 	./GreenKubo.py <psf> <veldcd>
+	./plotting.py <datafile>
+
+Results:
+	open VAC.png
+	
+	Diffusion coefficient is equal to the running integral of the velocity autocorrelation (value printed to stdout found at the end of diffusion_coeff.dat)
+
+	D = 2487.92294273 Angstrom^2 ps^-1
+	D = 2.487 * 10^-5 m^2 s^-1
+
+
